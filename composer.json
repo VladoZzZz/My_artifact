@@ -4,7 +4,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "vladislavenasty/my-package": "*"
+        "vladislavenasty/my-package": "0.0.1"
     },
     "version": "1.0.0",
     "autoload": {
