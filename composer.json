@@ -1,11 +1,9 @@
 {
     "name": "vladislavenasty/my-package",
     "description": "Описание",
+    "version": "0.0.1",
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {
-        "vladislavenasty/my-package": "0.0.1"
-    },
     "autoload": {
         "psr-4": {
             "Vladislavenasty\\MyPackage\\": "src/"
