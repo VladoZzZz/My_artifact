@@ -1,0 +1,17 @@
+{
+    "name": "vladislavenasty/my-package",
+    "description": "\"Описание\"",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Vladislavenasty\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Райан Гослинг",
+            "email": "vladoz.ol@yandex.ru"
+        }
+    ],
+    "require": {}
+}
