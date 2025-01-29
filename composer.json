@@ -6,7 +6,6 @@
     "require": {
         "vladislavenasty/my-package": "0.0.1"
     },
-    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Vladislavenasty\\MyPackage\\": "src/"
