@@ -1,6 +1,11 @@
 {
     "name": "vladislavenasty/my-package",
-    "description": "\"Описание\"",
+    "description": "Описание",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "vladislavenasty/my-package": "*"
+    },
     "version": "1.0.0",
     "autoload": {
         "psr-4": {
@@ -12,6 +17,6 @@
             "name": "Райан Гослинг",
             "email": "vladoz.ol@yandex.ru"
         }
-    ],
-    "require": {}
+    ]
 }
+
